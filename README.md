@@ -29,3 +29,10 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>Sift</b>  | GO fast and powerfull alternative for grep | https://github.com/svent/sift |
 | <b>PRU</b>  | Ruby analog for grep, sed, awk | https://github.com/grosser/pru|
 | <b>BlueFlower</b> | Python grep tool for searcing in PDF, DOCX, XLSX, tar, ZIP, bzip2, gzip |https://github.com/veorq/blueflower |
+
+
+<h1>Universal examples of the use of GREP</h1>
+
+Examples of regular expressions for extracting various data from texts can be found in the repository:
+
+https://github.com/cipher387/grep_for_osint
