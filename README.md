@@ -1,4 +1,4 @@
-Awesome Grep
+<h1>Awesome Grep</h1>
 
 Grep is a command line utility that searches files for lines that match a regular expression. 
 
