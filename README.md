@@ -1,5 +1,12 @@
-# awesome-grep
-List of GREP modifications and alternatives for a variety of purposes
+Awesome Grep
+
+Grep is a command line utility that searches files for lines that match a regular expression. 
+
+The first version of this utility appeared almost 50 years ago, in 1973. But it is still actively used and maintained (the last version was released in August 2021! https://ftp.gnu.org/gnu/grep/).
+
+This repository contains various modifications of grep, as well as analogues of this utility for a wide variety of search tasks.
+
+
 
 | Name             | Description             | Link.       | 
 |------------------|-------------------------|-------------|
