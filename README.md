@@ -3,8 +3,7 @@ List of GREP modifications and alternatives for a variety of purposes
 
 | Name             | Description             | Link.       | 
 |------------------|-------------------------|-------------|
-
-| RZgrep | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" |  https://github.com/MoserMichael/rzgrep | </br>
+| RZgrep | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" |  https://github.com/MoserMichael/rzgrep | 
 | XLSgrep | "CLI tool to search text in <b>XLSX, XLS and ODS</b> files. It works similarly to Unix/GNU Linux grep" | https://github.com/zazuum/xlsxgrep |
 | Hgrep | "Grep" for searching/replacement in html code | https://github.com/TUVIMEN/hgrep |
 | BINgrep | Grep for binaries files | https://github.com/m4b/bingrep |
