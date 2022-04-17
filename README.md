@@ -1,7 +1,7 @@
 # awesome-grep
 List of GREP modifications and alternatives for a variety of purposes
 
-| Name             | Description                    | Link| 
+| Name             | Description             | Link.       | 
 |------------------|-------------------------|-------------|
 
 | RZgrep | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" |  https://github.com/MoserMichael/rzgrep | 
