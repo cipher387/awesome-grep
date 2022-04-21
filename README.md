@@ -26,6 +26,7 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>Greplace.vim</b>  | Global search and replace for VI|https://github.com/skwp/greplace.vim|
 | <b>SearchInProject_SublimeText</b>  | Use ag, ack, grep and git grep directly from Sublime Text 2 and 3 | https://github.com/leonid-shevtsov/SearchInProject_SublimeText |
 | <b>ACK3</b>  | grep-like Perl search tool optimized for source code | https://github.com/beyondgrep/ack3|
+| <b>The Silver Searcher</b>  | Extreme grep-like C+Perl search tool for source code | https://github.com/ggreer/the_silver_searcher|
 | <b>Sift</b>  | GO fast and powerfull alternative for grep | https://github.com/svent/sift |
 | <b>PRU</b>  | Ruby analog for grep, sed, awk | https://github.com/grosser/pru|
 | <b>BlueFlower</b> | Python grep tool for searcing in PDF, DOCX, XLSX, tar, ZIP, bzip2, gzip |https://github.com/veorq/blueflower |
