@@ -1,5 +1,8 @@
 <h1>Awesome Grep</h1>
 
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
+    <p align="center">
+
 Grep is a command line utility that searches files for lines that match a regular expression. 
 
 The first version of this utility appeared almost 50 years ago, in 1973. But it is still actively used and maintained (the last version was released in August 2021! https://ftp.gnu.org/gnu/grep/).
