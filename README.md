@@ -1,5 +1,10 @@
 <h1>Awesome Grep</h1>
 
+
+<img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-grep">
+ 
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-grep">
+
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
     <p align="center">
 
