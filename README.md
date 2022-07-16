@@ -48,3 +48,17 @@ This repository contains various modifications of grep, as well as analogues of 
 Examples of regular expressions for extracting various data from texts can be found in the repository:
 
 https://github.com/cipher387/grep_for_osint
+
+
+<hr>
+
+Twitter — https://twitter.com/cyb_detective
+
+Telegram — https://t.me/cybdetective
+
+Github — https://github.com/cipher387
+
+Discord — https://cipher387.github.io/discordlink.html
+
+<hr>
+
