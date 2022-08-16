@@ -44,6 +44,7 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>BlueFlower</b> | Python grep tool for searcing in PDF, DOCX, XLSX, tar, ZIP, bzip2, gzip |https://github.com/veorq/blueflower |
 | <b>RipGrep (rg)</b> | ripgrep is a line-oriented search tool that recursively searches the current directory for a regex pattern, similar to the Silver Searcher, awk; but (much) faster |https://github.com/BurntSushi/ripgrep |
 | <b>WinGrep</b> | Simple Windows utility to search for strings in Windows files. | https://github.com/alexgelman/WinGrep |
+| <b>FQGREP</b> | Grep for FASTQ (text-based format for storing both a biological sequence) files | https://github.com/fulcrumgenomics/fqgrep |
 | <b>Searchdb</b> |Search tool that will go faster than grep -r optimize for Windows | https://github.com/Termux1337/Searchdb |
 
 <h1>Universal examples of the use of GREP</h1>
