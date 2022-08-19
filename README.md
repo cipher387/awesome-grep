@@ -1,6 +1,6 @@
 <h1>Awesome Grep</h1>
 
-
+<div>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-grep">
  
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-grep">
@@ -11,6 +11,8 @@
     
     
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcipher387%2Fawesome-grep&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
 
 Grep is a command line utility that searches files for lines that match a regular expression. 
 
