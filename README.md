@@ -55,7 +55,7 @@ This repository contains various modifications of grep, as well as analogues of 
 
 To get the most out of the grep utilities mentioned above, use them along with sed and awk (and add some Perl in particularly difficult cases). You can read more about all this here:
 
-Command line text processing manual https://github.com/learnbyexample/Command-line-text-processing
+<b>Command line text processing manual</b> https://github.com/learnbyexample/Command-line-text-processing
 
 
 <h1>Universal examples of the use of GREP</h1>
