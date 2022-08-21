@@ -49,6 +49,15 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>FQGREP</b> | Grep for FASTQ (text-based format for storing both a biological sequence) files | https://github.com/fulcrumgenomics/fqgrep |
 | <b>Searchdb</b> |Search tool that will go faster than grep -r optimize for Windows | https://github.com/Termux1337/Searchdb |
 
+
+
+<hr>
+
+To get the most out of the grep utilities mentioned above, use them along with sed and awk (and add some Perl in particularly difficult cases). You can read more about all this here:
+
+Command line text processing manual https://github.com/learnbyexample/Command-line-text-processing
+
+
 <h1>Universal examples of the use of GREP</h1>
 
 Examples of regular expressions for extracting various data from texts can be found in the repository:
