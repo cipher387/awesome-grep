@@ -29,6 +29,7 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>PHPgrep</b>  | Grep for PHP source code | https://github.com/quasilyte/phpgrep|
 | <b>UCG (Universal Code Grep)</b> | Extremely fast grep-like tool specialized for searching large bodies of source code | https://github.com/gvansickle/ucg |
 | <b>MP4grep</b>  | CLI for transcribing and searching audio/video files | https://github.com/o-oconnell/mp4grep|
+| <b>minigrep</b>  | A minimalistic regex search and print out tool implementation as per Ch.12 of The Rust Programming Language | https://github.com/paul-michelle/minigrep|
 | <b>Hackers Grep</b>  | Utility to search for strings in PE executables including imports, exports, and debug symbols | https://github.com/codypierce/hackers-grep |
 | <b>JVgrep</b> | Grep for Japanese vimmer. You can find text from files that written in another Japanese encodings | https://github.com/mattn/jvgrep |
 | <b>LiveGrep</b>  | Online grep search in Github repositories | https://livegrep.com/ | 
