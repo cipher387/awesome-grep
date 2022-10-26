@@ -47,6 +47,9 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>Searchdb</b> |Search tool that will go faster than grep -r optimize for Windows | https://github.com/Termux1337/Searchdb |
 | <b>Vgrep</b> |Pager for grep, git-grep, ripgrep and similar grep implementations, and allows for opening the indexed file locations in a user-specified editor such as vim or emacs | https://github.com/vrothberg/vgrep |
 | <b>Astgrep</b> | A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust | https://github.com/HerringtonDarkholme/ast-grep |
+| <b>Wordpress-grep</b> | A Perl tool to search through a WordPress database | https://github.com/briandfoy/wordpress-grep |
+
+
 
 
 <hr>
