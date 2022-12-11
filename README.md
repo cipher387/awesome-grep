@@ -1,5 +1,9 @@
 <h1>Awesome Grep</h1>
 
+
+
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+
 <div>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-grep">
 <img alt="GitHub forks" src="https://img.shields.io/github/forks/cipher387/awesome-grep">
@@ -68,15 +72,5 @@ Examples of regular expressions for extracting various data from texts can be fo
 https://github.com/cipher387/grep_for_osint
 
 
-<hr>
-
-Twitter — https://twitter.com/cyb_detective
-
-Telegram — https://t.me/cybdetective
-
-Github — https://github.com/cipher387
-
-Discord — https://cipher387.github.io/discordlink.html
-
-<hr>
+Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
 
