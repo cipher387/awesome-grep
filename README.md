@@ -52,6 +52,7 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>Vgrep</b> |Pager for grep, git-grep, ripgrep and similar grep implementations, and allows for opening the indexed file locations in a user-specified editor such as vim or emacs | https://github.com/vrothberg/vgrep |
 | <b>Astgrep</b> | A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust | https://github.com/HerringtonDarkholme/ast-grep |
 | <b>Wordpress-grep</b> | A Perl tool to search through a WordPress database | https://github.com/briandfoy/wordpress-grep |
+| <b>Ytgrep</b> | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. | https://pypi.org/project/ytgrep/ |
 
 
 
