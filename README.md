@@ -2,7 +2,7 @@
 
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
 <div>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/cipher387/awesome-grep">
@@ -76,5 +76,5 @@ Examples of regular expressions for extracting various data from texts can be fo
 https://github.com/cipher387/grep_for_osint
 
 
-Thank you for following me! [@cyb_detective](https://linktr.ee/cyb_detective)
+Thank you for following me! https://cybdetective.com
 
