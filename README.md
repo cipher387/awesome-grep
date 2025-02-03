@@ -27,6 +27,7 @@ This repository contains various modifications of grep, as well as analogues of 
 
 | Name             | Description             | Link.       | 
 |------------------|-------------------------|-------------|
+| <b>Ripgrep-all</b>  | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. |  https://github.com/phiresky/ripgrep-all | 
 | <b>RZgrep</b>  | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" |  https://github.com/MoserMichael/rzgrep | 
 | <b>XLSgrep</b>  | "CLI tool to search text in <b>XLSX, XLS and ODS</b> files. It works similarly to Unix/GNU Linux grep" | https://github.com/zazuum/xlsxgrep |
 | <b>Hgrep</b>  | "Grep" for searching/replacement in html code | https://github.com/TUVIMEN/hgrep |
