@@ -33,6 +33,7 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>Hgrep</b>  | "Grep" for searching/replacement in html code | https://github.com/TUVIMEN/hgrep |
 | <b>BINgrep</b>  | Grep for binaries files | https://github.com/m4b/bingrep |
 | <b>Cgrep</b>  | Grep for source codes in C/C++ | https://github.com/awgn/cgrep|
+| <b>BHgrep</b>  | Command-line tool that lets you search through your browser history across Chrome, Firefox, Safari, and Edge | https://github.com/jondot/bhgrep|
 | <b>Ngrep</b>  | PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw | https://github.com/jpr5/ngrep|
 | <b>PHPgrep</b>  | Grep for PHP source code | https://github.com/quasilyte/phpgrep|
 | <b>UCG (Universal Code Grep)</b> | Extremely fast grep-like tool specialized for searching large bodies of source code | https://github.com/gvansickle/ucg |
