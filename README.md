@@ -55,7 +55,6 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>FQGREP</b> | Grep for FASTQ (text-based format for storing both a biological sequence) files | https://github.com/fulcrumgenomics/fqgrep |
 | <b>Searchdb</b> |Search tool that will go faster than grep -r optimize for Windows | https://github.com/Termux1337/Searchdb |
 | <b>Vgrep</b> |Pager for grep, git-grep, ripgrep and similar grep implementations, and allows for opening the indexed file locations in a user-specified editor such as vim or emacs | https://github.com/vrothberg/vgrep |
-| <b>Astgrep</b> | A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust | https://github.com/HerringtonDarkholme/ast-grep |
 | <b>Wordpress-grep</b> | A Perl tool to search through a WordPress database | https://github.com/briandfoy/wordpress-grep |
 | <b>Ytgrep</b> | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. | https://pypi.org/project/ytgrep/ |
 | <b>CloudGrep</b> | Searching log files, optionally compressed with gzip (.gz) or zip (.zip), in AWS S3, Azure Storage or Google Cloud Storage. | https://github.com/cado-security/cloudgrep  |
