@@ -27,13 +27,15 @@ This repository contains various modifications of grep, as well as analogues of 
 
 | Name             | Description             | Link.       | 
 |------------------|-------------------------|-------------|
-| <b>RZgrep</b> | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" | https://github.com/MoserMichael/rzgrep |
-| <b>XLSgrep</b> | "CLI tool to search text in <b>XLSX, XLS and ODS</b> files. It works similarly to Unix/GNU Linux grep" | https://github.com/zazuum/xlsxgrep |
-| <b>Hgrep</b> | "Grep" for searching/replacement in html code | https://github.com/TUVIMEN/hgrep |
-| <b>BINgrep</b> | Grep for binaries files | https://github.com/m4b/bingrep |
-| <b>Cgrep</b> | Grep for source codes in C/C++ | https://github.com/awgn/cgrep |
-| <b>Ngrep</b> | PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw | https://github.com/jpr5/ngrep |
-| <b>PHPgrep</b> | Grep for PHP source code | https://github.com/quasilyte/phpgrep |
+| <b>Ripgrep-all</b>  | rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. |  https://github.com/phiresky/ripgrep-all | 
+| <b>RZgrep</b>  | "Grep utility that searches through <b>zip,jar,ear,tgz,bz2</b> in any form of nesting" |  https://github.com/MoserMichael/rzgrep | 
+| <b>XLSgrep</b>  | "CLI tool to search text in <b>XLSX, XLS and ODS</b> files. It works similarly to Unix/GNU Linux grep" | https://github.com/zazuum/xlsxgrep |
+| <b>Hgrep</b>  | "Grep" for searching/replacement in html code | https://github.com/TUVIMEN/hgrep |
+| <b>BINgrep</b>  | Grep for binaries files | https://github.com/m4b/bingrep |
+| <b>Cgrep</b>  | Grep for source codes in C/C++ | https://github.com/awgn/cgrep|
+| <b>BHgrep</b>  | Command-line tool that lets you search through your browser history across Chrome, Firefox, Safari, and Edge | https://github.com/jondot/bhgrep|
+| <b>Ngrep</b>  | PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw | https://github.com/jpr5/ngrep|
+| <b>PHPgrep</b>  | Grep for PHP source code | https://github.com/quasilyte/phpgrep|
 | <b>UCG (Universal Code Grep)</b> | Extremely fast grep-like tool specialized for searching large bodies of source code | https://github.com/gvansickle/ucg |
 | <b>MP4grep</b> | CLI for transcribing and searching audio/video files | https://github.com/o-oconnell/mp4grep |
 | <b>minigrep</b> | A minimalistic regex search and print out tool implementation as per Ch.12 of The Rust Programming Language | https://github.com/paul-michelle/minigrep|
@@ -53,7 +55,6 @@ This repository contains various modifications of grep, as well as analogues of 
 | <b>FQGREP</b> | Grep for FASTQ (text-based format for storing both a biological sequence) files | https://github.com/fulcrumgenomics/fqgrep |
 | <b>Searchdb</b> |Search tool that will go faster than grep -r optimize for Windows | https://github.com/Termux1337/Searchdb |
 | <b>Vgrep</b> |Pager for grep, git-grep, ripgrep and similar grep implementations, and allows for opening the indexed file locations in a user-specified editor such as vim or emacs | https://github.com/vrothberg/vgrep |
-| <b>Astgrep</b> | A fast and easy tool for code searching, linting, rewriting at large scale. Written in Rust | https://github.com/HerringtonDarkholme/ast-grep |
 | <b>Wordpress-grep</b> | A Perl tool to search through a WordPress database | https://github.com/briandfoy/wordpress-grep |
 | <b>Ytgrep</b> | A tool for quick text search of subtitles in YouTube videos. Supports regular expressions and searching across multiple videos. | https://pypi.org/project/ytgrep/ |
 | <b>CloudGrep</b> | Searching log files, optionally compressed with gzip (.gz) or zip (.zip), in AWS S3, Azure Storage or Google Cloud Storage. | https://github.com/cado-security/cloudgrep |
